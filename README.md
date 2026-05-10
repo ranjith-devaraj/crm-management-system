@@ -109,7 +109,7 @@ Update DB config:
 
 $conn = new mysqli("localhost", "root", "", "crm", 3306);
 
-🔑### Default Login
+### 🔑 Default Login
 
 <img width="775" height="198" alt="image" src="https://github.com/user-attachments/assets/33c03b03-ce66-49ef-90c9-56c70819faa6" />
 
