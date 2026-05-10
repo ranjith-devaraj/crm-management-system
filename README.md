@@ -119,11 +119,11 @@ $conn = new mysqli("localhost", "root", "", "crm", 3306);
 
 ### 💡 Future Improvements
 
-🔐 JWT Authentication\n
-📧 Email Notifications
-📁 File Upload Support
-☁️ Cloud Deployment (AWS / Vercel)
-📱 Mobile Responsive Optimization
+- 🔐 JWT Authentication  
+- 📧 Email Notifications  
+- 📁 File Upload Support  
+- ☁️ Cloud Deployment (AWS / Vercel)  
+- 📱 Mobile Responsive Optimization 
 
 ### 👨‍💻 Author
 
