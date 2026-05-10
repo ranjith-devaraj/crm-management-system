@@ -134,12 +134,10 @@ Ranjith Devaraj
 
 ### If you like this project:
 
-👉 Give it a ⭐ on GitHub
-👉 Share on LinkedIn
+-👉 Give it a ⭐ on GitHub
+-👉 Share on LinkedIn
 
-🔗 GitHub Repository
+### 🔗 GitHub Repository
 
 https://github.com/ranjith-devaraj/crm-management-system
 
-
----
