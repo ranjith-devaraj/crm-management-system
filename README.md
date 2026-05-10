@@ -104,7 +104,7 @@ http://localhost:5173
 Create database:
 ```sql
 CREATE DATABASE crm;
-
+---
 Update DB config:
 
 $conn = new mysqli("localhost", "root", "", "crm", 3306);
